@@ -22,8 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-tailwind.config.js
-README.md 
 package-lock.json
-package.json 
+package.json
+README.md
+tailwind.config.js
 
